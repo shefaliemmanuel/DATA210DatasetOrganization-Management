@@ -43,7 +43,7 @@ CREATE TABLE `cartitems` (
 
 LOCK TABLES `cartitems` WRITE;
 /*!40000 ALTER TABLE `cartitems` DISABLE KEYS */;
-INSERT INTO `cartitems` VALUES (3197,5932,1),(3081,5023,3),(3081,5913,2);
+INSERT INTO `cartitems` VALUES (3197,5932,1),(3081,5023,4),(3081,5913,2);
 /*!40000 ALTER TABLE `cartitems` ENABLE KEYS */;
 UNLOCK TABLES;
 
@@ -94,7 +94,7 @@ CREATE TABLE `customers` (
 
 LOCK TABLES `customers` WRITE;
 /*!40000 ALTER TABLE `customers` DISABLE KEYS */;
-INSERT INTO `customers` VALUES (750,'C. Brown','789 Sesame St., Eureka, KS',''),(880,'H. Clark','937 Sesame St., Eureka, KS,','P.O. Box 9, Toledo, OH');
+INSERT INTO `customers` VALUES (70,'C. Brown','789 Sesame St., Eureka, KS','See billing address'),(880,'H. Clark','937 Sesame St., Eureka, KS,','P.O. Box 9, Toledo, OH');
 /*!40000 ALTER TABLE `customers` ENABLE KEYS */;
 UNLOCK TABLES;
 
@@ -133,4 +133,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2020-02-17  5:48:24
+-- Dump completed on 2020-02-17 17:01:57
