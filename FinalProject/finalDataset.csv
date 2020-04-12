@@ -352,7 +352,7 @@ date,state,cases,deaths,abbreviation
 2020-03-07,Arizona,5,0,AZ
 2020-03-07,California,100,1,CA
 2020-03-07,Colorado,8,0,CO
-2020-03-07,District of Columbia,1,0,DC
+2020-03-07,DistrictofColumbia,1,0,DC
 2020-03-07,Florida,12,2,FL
 2020-03-07,Georgia,7,0,GA
 2020-03-07,Hawaii,1,0,HI
@@ -386,7 +386,7 @@ date,state,cases,deaths,abbreviation
 2020-03-08,California,112,1,CA
 2020-03-08,Colorado,8,0,CO
 2020-03-08,Connecticut,1,0,CT
-2020-03-08,District of Columbia,1,0,DC
+2020-03-08,DistrictofColumbia,1,0,DC
 2020-03-08,Florida,13,2,FL
 2020-03-08,Georgia,11,0,GA
 2020-03-08,Hawaii,2,0,HI
@@ -421,7 +421,7 @@ date,state,cases,deaths,abbreviation
 2020-03-09,California,172,2,CA
 2020-03-09,Colorado,12,0,CO
 2020-03-09,Connecticut,2,0,CT
-2020-03-09,District of Columbia,4,0,DC
+2020-03-09,DistrictofColumbia,4,0,DC
 2020-03-09,Florida,14,2,FL
 2020-03-09,Georgia,17,0,GA
 2020-03-09,Hawaii,2,0,HI
@@ -458,7 +458,7 @@ date,state,cases,deaths,abbreviation
 2020-03-10,California,179,3,CA
 2020-03-10,Colorado,17,0,CO
 2020-03-10,Connecticut,2,0,CT
-2020-03-10,District of Columbia,4,0,DC
+2020-03-10,DistrictofColumbia,4,0,DC
 2020-03-10,Florida,23,2,FL
 2020-03-10,Georgia,22,0,GA
 2020-03-10,Hawaii,2,0,HI
@@ -499,7 +499,7 @@ date,state,cases,deaths,abbreviation
 2020-03-11,Colorado,34,0,CO
 2020-03-11,Connecticut,3,0,CT
 2020-03-11,Delaware,1,0,DE
-2020-03-11,District of Columbia,10,0,DC
+2020-03-11,DistrictofColumbia,10,0,DC
 2020-03-11,Florida,26,2,FL
 2020-03-11,Georgia,31,0,GA
 2020-03-11,Hawaii,2,0,HI
@@ -545,7 +545,7 @@ date,state,cases,deaths,abbreviation
 2020-03-12,Colorado,49,1,CO
 2020-03-12,Connecticut,6,0,CT
 2020-03-12,Delaware,4,0,DE
-2020-03-12,District of Columbia,10,0,DC
+2020-03-12,DistrictofColumbia,10,0,DC
 2020-03-12,Florida,46,2,FL
 2020-03-12,Georgia,31,1,GA
 2020-03-12,Hawaii,2,0,HI
@@ -593,7 +593,7 @@ date,state,cases,deaths,abbreviation
 2020-03-13,Colorado,78,2,CO
 2020-03-13,Connecticut,11,0,CT
 2020-03-13,Delaware,4,0,DE
-2020-03-13,District of Columbia,10,0,DC
+2020-03-13,DistrictofColumbia,10,0,DC
 2020-03-13,Florida,70,2,FL
 2020-03-13,Georgia,41,1,GA
 2020-03-13,Hawaii,2,0,HI
@@ -643,7 +643,7 @@ date,state,cases,deaths,abbreviation
 2020-03-14,Colorado,103,2,CO
 2020-03-14,Connecticut,20,0,CT
 2020-03-14,Delaware,4,0,DE
-2020-03-14,District of Columbia,16,0,DC
+2020-03-14,DistrictofColumbia,16,0,DC
 2020-03-14,Florida,70,3,FL
 2020-03-14,Georgia,65,1,GA
 2020-03-14,Hawaii,4,0,HI
@@ -693,7 +693,7 @@ date,state,cases,deaths,abbreviation
 2020-03-15,Colorado,136,2,CO
 2020-03-15,Connecticut,26,0,CT
 2020-03-15,Delaware,7,0,DE
-2020-03-15,District of Columbia,17,0,DC
+2020-03-15,DistrictofColumbia,17,0,DC
 2020-03-15,Florida,109,3,FL
 2020-03-15,Georgia,97,1,GA
 2020-03-15,Hawaii,7,0,HI
@@ -743,7 +743,7 @@ date,state,cases,deaths,abbreviation
 2020-03-16,Colorado,161,2,CO
 2020-03-16,Connecticut,41,0,CT
 2020-03-16,Delaware,8,0,DE
-2020-03-16,District of Columbia,22,0,DC
+2020-03-16,DistrictofColumbia,22,0,DC
 2020-03-16,Florida,141,4,FL
 2020-03-16,Georgia,118,1,GA
 2020-03-16,Hawaii,10,0,HI
@@ -793,7 +793,7 @@ date,state,cases,deaths,abbreviation
 2020-03-17,Colorado,183,3,CO
 2020-03-17,Connecticut,68,0,CT
 2020-03-17,Delaware,16,0,DE
-2020-03-17,District of Columbia,31,0,DC
+2020-03-17,DistrictofColumbia,31,0,DC
 2020-03-17,Florida,210,6,FL
 2020-03-17,Georgia,142,1,GA
 2020-03-17,Hawaii,14,0,HI
@@ -844,7 +844,7 @@ date,state,cases,deaths,abbreviation
 2020-03-18,Colorado,216,3,CO
 2020-03-18,Connecticut,96,1,CT
 2020-03-18,Delaware,26,0,DE
-2020-03-18,District of Columbia,36,0,DC
+2020-03-18,DistrictofColumbia,36,0,DC
 2020-03-18,Florida,326,7,FL
 2020-03-18,Georgia,193,3,GA
 2020-03-18,Hawaii,16,0,HI
@@ -895,7 +895,7 @@ date,state,cases,deaths,abbreviation
 2020-03-19,Colorado,278,5,CO
 2020-03-19,Connecticut,159,4,CT
 2020-03-19,Delaware,30,0,DE
-2020-03-19,District of Columbia,68,0,DC
+2020-03-19,DistrictofColumbia,68,0,DC
 2020-03-19,Florida,434,8,FL
 2020-03-19,Georgia,282,10,GA
 2020-03-19,Hawaii,26,0,HI
@@ -946,7 +946,7 @@ date,state,cases,deaths,abbreviation
 2020-03-20,Colorado,364,5,CO
 2020-03-20,Connecticut,194,4,CT
 2020-03-20,Delaware,39,0,DE
-2020-03-20,District of Columbia,77,1,DC
+2020-03-20,DistrictofColumbia,77,1,DC
 2020-03-20,Florida,564,9,FL
 2020-03-20,Georgia,482,14,GA
 2020-03-20,Hawaii,37,0,HI
@@ -997,7 +997,7 @@ date,state,cases,deaths,abbreviation
 2020-03-21,Colorado,475,6,CO
 2020-03-21,Connecticut,223,5,CT
 2020-03-21,Delaware,45,0,DE
-2020-03-21,District of Columbia,98,1,DC
+2020-03-21,DistrictofColumbia,98,1,DC
 2020-03-21,Florida,764,11,FL
 2020-03-21,Georgia,552,20,GA
 2020-03-21,Hawaii,48,0,HI
@@ -1048,7 +1048,7 @@ date,state,cases,deaths,abbreviation
 2020-03-22,Colorado,591,7,CO
 2020-03-22,Connecticut,327,8,CT
 2020-03-22,Delaware,56,0,DE
-2020-03-22,District of Columbia,116,2,DC
+2020-03-22,DistrictofColumbia,116,2,DC
 2020-03-22,Florida,1000,13,FL
 2020-03-22,Georgia,620,25,GA
 2020-03-22,Hawaii,56,0,HI
@@ -1099,7 +1099,7 @@ date,state,cases,deaths,abbreviation
 2020-03-23,Colorado,721,10,CO
 2020-03-23,Connecticut,415,10,CT
 2020-03-23,Delaware,87,0,DE
-2020-03-23,District of Columbia,138,2,DC
+2020-03-23,DistrictofColumbia,138,2,DC
 2020-03-23,Florida,1222,18,FL
 2020-03-23,Georgia,800,25,GA
 2020-03-23,Hawaii,77,0,HI
@@ -1150,7 +1150,7 @@ date,state,cases,deaths,abbreviation
 2020-03-24,Colorado,912,11,CO
 2020-03-24,Connecticut,618,12,CT
 2020-03-24,Delaware,104,0,DE
-2020-03-24,District of Columbia,183,2,DC
+2020-03-24,DistrictofColumbia,183,2,DC
 2020-03-24,Florida,1467,19,FL
 2020-03-24,Georgia,1097,38,GA
 2020-03-24,Hawaii,90,0,HI
@@ -1201,7 +1201,7 @@ date,state,cases,deaths,abbreviation
 2020-03-25,Colorado,1086,19,CO
 2020-03-25,Connecticut,875,19,CT
 2020-03-25,Delaware,119,0,DE
-2020-03-25,District of Columbia,231,3,DC
+2020-03-25,DistrictofColumbia,231,3,DC
 2020-03-25,Florida,1965,23,FL
 2020-03-25,Georgia,1387,47,GA
 2020-03-25,Hawaii,95,0,HI
@@ -1252,7 +1252,7 @@ date,state,cases,deaths,abbreviation
 2020-03-26,Colorado,1432,24,CO
 2020-03-26,Connecticut,1012,21,CT
 2020-03-26,Delaware,143,1,DE
-2020-03-26,District of Columbia,267,3,DC
+2020-03-26,DistrictofColumbia,267,3,DC
 2020-03-26,Florida,2477,29,FL
 2020-03-26,Georgia,1643,56,GA
 2020-03-26,Hawaii,106,0,HI
@@ -1303,7 +1303,7 @@ date,state,cases,deaths,abbreviation
 2020-03-27,Colorado,1735,31,CO
 2020-03-27,Connecticut,1291,27,CT
 2020-03-27,Delaware,165,2,DE
-2020-03-27,District of Columbia,304,4,DC
+2020-03-27,DistrictofColumbia,304,4,DC
 2020-03-27,Florida,3198,46,FL
 2020-03-27,Georgia,2198,64,GA
 2020-03-27,Hawaii,120,0,HI
@@ -1354,7 +1354,7 @@ date,state,cases,deaths,abbreviation
 2020-03-28,Colorado,2061,44,CO
 2020-03-28,Connecticut,1524,33,CT
 2020-03-28,Delaware,214,5,DE
-2020-03-28,District of Columbia,342,4,DC
+2020-03-28,DistrictofColumbia,342,4,DC
 2020-03-28,Florida,4038,56,FL
 2020-03-28,Georgia,2447,79,GA
 2020-03-28,Hawaii,151,0,HI
@@ -1405,7 +1405,7 @@ date,state,cases,deaths,abbreviation
 2020-03-29,Colorado,2315,47,CO
 2020-03-29,Connecticut,1993,34,CT
 2020-03-29,Delaware,232,6,DE
-2020-03-29,District of Columbia,342,4,DC
+2020-03-29,DistrictofColumbia,342,4,DC
 2020-03-29,Florida,4942,59,FL
 2020-03-29,Georgia,2683,83,GA
 2020-03-29,Hawaii,175,0,HI
@@ -1456,7 +1456,7 @@ date,state,cases,deaths,abbreviation
 2020-03-30,Colorado,2628,51,CO
 2020-03-30,Connecticut,2571,36,CT
 2020-03-30,Delaware,264,7,DE
-2020-03-30,District of Columbia,495,9,DC
+2020-03-30,DistrictofColumbia,495,9,DC
 2020-03-30,Florida,5694,71,FL
 2020-03-30,Georgia,3032,102,GA
 2020-03-30,Hawaii,204,0,HI
@@ -1507,7 +1507,7 @@ date,state,cases,deaths,abbreviation
 2020-03-31,Colorado,2990,69,CO
 2020-03-31,Connecticut,3128,69,CT
 2020-03-31,Delaware,319,10,DE
-2020-03-31,District of Columbia,495,9,DC
+2020-03-31,DistrictofColumbia,495,9,DC
 2020-03-31,Florida,6741,85,FL
 2020-03-31,Georgia,4117,125,GA
 2020-03-31,Hawaii,224,1,HI
@@ -1558,7 +1558,7 @@ date,state,cases,deaths,abbreviation
 2020-04-01,Colorado,3346,80,CO
 2020-04-01,Connecticut,3557,85,CT
 2020-04-01,Delaware,368,11,DE
-2020-04-01,District of Columbia,586,11,DC
+2020-04-01,DistrictofColumbia,586,11,DC
 2020-04-01,Florida,7765,100,FL
 2020-04-01,Georgia,4748,154,GA
 2020-04-01,Hawaii,258,1,HI
@@ -1609,7 +1609,7 @@ date,state,cases,deaths,abbreviation
 2020-04-02,Colorado,3728,96,CO
 2020-04-02,Connecticut,3824,112,CT
 2020-04-02,Delaware,393,12,DE
-2020-04-02,District of Columbia,653,12,DC
+2020-04-02,DistrictofColumbia,653,12,DC
 2020-04-02,Florida,9000,144,FL
 2020-04-02,Georgia,5444,176,GA
 2020-04-02,Hawaii,283,2,HI
@@ -1660,7 +1660,7 @@ date,state,cases,deaths,abbreviation
 2020-04-03,Colorado,4182,110,CO
 2020-04-03,Connecticut,4915,132,CT
 2020-04-03,Delaware,450,14,DE
-2020-04-03,District of Columbia,757,15,DC
+2020-04-03,DistrictofColumbia,757,15,DC
 2020-04-03,Florida,10260,169,FL
 2020-04-03,Georgia,5967,198,GA
 2020-04-03,Hawaii,317,3,HI
@@ -1711,7 +1711,7 @@ date,state,cases,deaths,abbreviation
 2020-04-04,Colorado,4574,126,CO
 2020-04-04,Connecticut,5276,165,CT
 2020-04-04,Delaware,593,14,DE
-2020-04-04,District of Columbia,902,21,DC
+2020-04-04,DistrictofColumbia,902,21,DC
 2020-04-04,Florida,11537,194,FL
 2020-04-04,Georgia,6383,208,GA
 2020-04-04,Hawaii,349,3,HI
@@ -1762,7 +1762,7 @@ date,state,cases,deaths,abbreviation
 2020-04-05,Colorado,4950,140,CO
 2020-04-05,Connecticut,5675,189,CT
 2020-04-05,Delaware,673,14,DE
-2020-04-05,District of Columbia,998,22,DC
+2020-04-05,DistrictofColumbia,998,22,DC
 2020-04-05,Florida,12342,220,FL
 2020-04-05,Georgia,6742,219,GA
 2020-04-05,Hawaii,369,4,HI
@@ -1813,7 +1813,7 @@ date,state,cases,deaths,abbreviation
 2020-04-06,Colorado,5172,150,CO
 2020-04-06,Connecticut,6906,206,CT
 2020-04-06,Delaware,783,15,DE
-2020-04-06,District of Columbia,1097,24,DC
+2020-04-06,DistrictofColumbia,1097,24,DC
 2020-04-06,Florida,13621,253,FL
 2020-04-06,Georgia,7558,294,GA
 2020-04-06,Hawaii,385,5,HI
@@ -1864,7 +1864,7 @@ date,state,cases,deaths,abbreviation
 2020-04-07,Colorado,5429,179,CO
 2020-04-07,Connecticut,7781,277,CT
 2020-04-07,Delaware,928,16,DE
-2020-04-07,District of Columbia,1211,22,DC
+2020-04-07,DistrictofColumbia,1211,22,DC
 2020-04-07,Florida,14739,295,FL
 2020-04-07,Georgia,9156,348,GA
 2020-04-07,Hawaii,408,5,HI
@@ -1915,7 +1915,7 @@ date,state,cases,deaths,abbreviation
 2020-04-08,Colorado,5655,192,CO
 2020-04-08,Connecticut,8781,335,CT
 2020-04-08,Delaware,1116,19,DE
-2020-04-08,District of Columbia,1440,27,DC
+2020-04-08,DistrictofColumbia,1440,27,DC
 2020-04-08,Florida,15690,322,FL
 2020-04-08,Georgia,10204,370,GA
 2020-04-08,Hawaii,433,5,HI
@@ -1966,7 +1966,7 @@ date,state,cases,deaths,abbreviation
 2020-04-09,Colorado,6202,227,CO
 2020-04-09,Connecticut,9784,380,CT
 2020-04-09,Delaware,1209,23,DE
-2020-04-09,District of Columbia,1523,32,DC
+2020-04-09,DistrictofColumbia,1523,32,DC
 2020-04-09,Florida,16819,370,FL
 2020-04-09,Georgia,10885,412,GA
 2020-04-09,Hawaii,440,6,HI
@@ -2017,7 +2017,7 @@ date,state,cases,deaths,abbreviation
 2020-04-10,Colorado,6510,253,CO
 2020-04-10,Connecticut,10538,448,CT
 2020-04-10,Delaware,1326,32,DE
-2020-04-10,District of Columbia,1660,38,DC
+2020-04-10,DistrictofColumbia,1660,38,DC
 2020-04-10,Florida,17960,418,FL
 2020-04-10,Georgia,11859,425,GA
 2020-04-10,Hawaii,463,8,HI
